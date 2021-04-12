@@ -1,5 +1,9 @@
+
 # Coding Interview University
 
+<details>
+	<summary> Expandir </summary>
+	
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
@@ -64,6 +68,7 @@ Facebook and Microsoft view software engineering as different from software/web 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
 
 ---
+</details>
 
 ## Table of Contents
 
